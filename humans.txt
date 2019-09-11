@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	David Woodworth 	globalseoulmates@gmail.com	@no
 
 # THANKS
 
