@@ -21,3 +21,8 @@ and more
 
 ### Copyright
 2019 GSM
+
+### VIM
+This is me using vim with 'i' as the insert
+
+
