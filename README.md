@@ -5,6 +5,7 @@ This is a simple website for how to use github and git together.
 ## Introduction
 
 ## Purpose
+For david to learn about this
 
 ## Deployment
 
