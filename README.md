@@ -18,3 +18,6 @@ even more modification
 More and more
 
 and more
+
+### Copyright
+2019 GSM
